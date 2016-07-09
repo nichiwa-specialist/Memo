@@ -1,0 +1,6 @@
+
+左メニューからAMI選択
+パブリックイメージで「Windows_Server-2008-R2_SP1-Japanese-64Bit-Base」で検索。
+
+最新日本語AMI
+Windows_Server-2008-R2_SP1-Japanese-64Bit-Base-2016.06.15
