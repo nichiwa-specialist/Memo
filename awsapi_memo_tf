@@ -38,3 +38,16 @@ http://dev.classmethod.jp/cloud/create-opsworks-by-cloudformation/
 
 
 http://recipe.kc-cloud.jp/
+
+
+http://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/available-apis.html
+API リクエストを行う
+アマゾン ウェブ サービス（AWS）用のソフトウェア開発キット（SDK）に加えて Amazon EC2 用のクエリ API およびを使用すると、
+任意のプログラミング言語で Amazon EC2 を制御することができます。
+
+Amazon EC2 用の Query API の操作方法の詳細については、
+『Amazon EC2 API Reference』の「API リクエストの実行」を参照してください。
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/making-api-requests.html
+各言語のAWS SDKがある。
+.NET、Java、JavaScript、Pythonなど・・・
+落としてみたら分かるかも
