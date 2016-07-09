@@ -1,0 +1,40 @@
+AWS - API - EC2
+       |->Amazon EC2 API tool
+
+CloudFomation
+OpsWorks
+
+
+Amazon EC2 はクエリ API を提供します。
+このリクエストは、HTTP 動詞（GET または POST）とクエリパラメータ Action で記述する HTTP または HTTPS リクエストです。
+Amazon EC2 用の API アクションの詳細については、「Amazon EC2 API Reference」の「Actions」を参照してください。
+http://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/concepts.html
+
+
+
+参考URL
+http://blog.serverworks.co.jp/tech/2012/02/24/ec2-api-tools-for-windows/
+
+
+
+AWS	OpsWorks
+https://aws.amazon.com/jp/opsworks/
+
+概要編
+http://tech-sketch.jp/2013/08/aws-opsworks.html
+
+技術編
+http://tech-sketch.jp/2013/08/aws-opsworks-1.html
+
+
+AWS CloudFomation
+https://aws.amazon.com/jp/cloudformation/
+
+AWS CloudFomation仕組み
+http://qiita.com/iron-breaker/items/a12d1228de12663e7d32
+
+[新機能] AWS OpsWorksをCloudFormationでまとめて作成する
+http://dev.classmethod.jp/cloud/create-opsworks-by-cloudformation/
+
+
+http://recipe.kc-cloud.jp/
